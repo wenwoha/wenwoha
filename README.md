@@ -6,4 +6,4 @@
 ### 合作社区
 
 - 链眼社区: http://chaineye.wenwoha.com/
-- 币家社区: http://chaineye.wenwoha.com/
+- 币家社区: http://bj.gingernet.vip/
